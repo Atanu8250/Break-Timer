@@ -8,4 +8,5 @@
 5. Click on that and just put the downloaded zip file
 6. If zip file will not work then extract the zip file first and then upload it again in your extensions
 
-Thank You.
+
+## Thank You ❤
